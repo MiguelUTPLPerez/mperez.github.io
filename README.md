@@ -1,7 +1,7 @@
 
 # Mi Revista en Línea
 
-Bienvenido a mi revista en línea. Aquí encontrarás varias páginas interesantes:
+Bienvenido a milibro. Aquí encontrarás varias páginas interesantes en forma de revista:
 
 - [Página 1](pagina1.html)
 - [Página 2](pagina2.html)
