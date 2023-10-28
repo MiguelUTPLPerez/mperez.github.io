@@ -1,7 +1,4 @@
 # mperez.github.io
-name: milibro
-on:
-pushes:
 <ul>
     <li><a href="pagina1.html">Página 1</a></li>
     <li><a href="pagina2.html">Página 2</a></li>
