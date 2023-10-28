@@ -1,8 +1,10 @@
-# mperez.github.io
-<ul>
-    <li><a href="pagina1.html">Página 1</a></li>
-    <li><a href="pagina2.html">Página 2</a></li>
-    <li><a href="pagina3.html">Página 3</a></li>
-    <li><a href="pagina4.html">Página 4</a></li>
-</ul>
+
+# Mi Revista en Línea
+
+Bienvenido a mi revista en línea. Aquí encontrarás varias páginas interesantes:
+
+- [Página 1](pagina1.html)
+- [Página 2](pagina2.html)
+- [Página 3](pagina3.html)
+- [Página 4](pagina4.html)
 
