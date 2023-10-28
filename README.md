@@ -1,5 +1,5 @@
 
-# Mi Revista en Línea
+# Milibro - Miguel Perez
 
 Bienvenido a milibro. Aquí encontrarás varias páginas interesantes en forma de revista:
 
